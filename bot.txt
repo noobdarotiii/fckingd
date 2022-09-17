@@ -1,0 +1,5 @@
+{
+	"ip":"amra_coto.aternos.me",
+	"port": "36676",
+	"name": "Ghochu"
+}
